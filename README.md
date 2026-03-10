@@ -2,7 +2,7 @@
 
 # 🏥 MediVault
 
-### *Your health records. Your control. Always.*
+### *Encrypted. Consent-driven. AI-augmented. Patient-first.*
 
 [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -10,9 +10,24 @@
 [![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
 [![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
 
-**Built at Hackathon 2026** 🚀
+🥈 **2nd Place — Udhbhav 2k26** 🏆
 
 </div>
+
+---
+
+## 👥 Built By
+
+> 🥈 **2nd Place — Udhbhav 2k26**
+
+| Name | GitHub |
+|------|--------|
+| Aharon Kosetti | [@aharon-kumar-kosetti](https://github.com/aharon-kumar-kosetti) |
+| Bhanu Prakash Yirri | [@bhanuprakashyirri](https://github.com/bhanuprakashyirri) |
+| Mohith Kumar Baggu | [@mohithkumar64](https://github.com/mohithkumar64) |
+| Abishai Jogi | [@abishai-jogi](https://github.com/abishai-jogi) |
+| Saketh | — |
+| Ram Sai | — |
 
 ---
 
@@ -86,7 +101,7 @@ MediVault is a **secure, role-based medical records platform** that puts patient
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/medivault-react.git
+git clone https://github.com/aharon-kumar-kosetti/medivault-react.git
 cd medivault-react
 
 # 2. Install dependencies
@@ -179,23 +194,9 @@ npm run preview
 
 ---
 
-## 👥 Team
-
-Built with 💙 at **Hackathon 2026**
-
-> *See [`public/docs/MediVault-Team-Briefing.docx`](public/docs/MediVault-Team-Briefing.docx) for full team details.*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
-**MediVault** — *Because your health story belongs to you.*
+**MediVault** — *Encrypted. Consent-driven. AI-augmented. Patient-first.*
 
 ⭐ Star this repo if you found it useful!
 

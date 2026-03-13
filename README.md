@@ -26,7 +26,7 @@
 | Bhanu Prakash Yirri | [@bhanuprakashyirri](https://github.com/bhanuprakashyirri) |
 | Mohith Kumar Baggu | [@mohithkumar64](https://github.com/mohithkumar64) |
 | Abishai Jogi | [@abishai-jogi](https://github.com/abishai-jogi) |
-| Saketh | — |
+| Saketh | [@reddyvenkatasaketh](https://github.com/reddyvenkatasaketh) |
 | Ram Sai | [@ramsaik3339-cloud](https://github.com/ramsaik3339-cloud) | 
 
 ---
